@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="addbuttontext">Submit</string>
+    <string name="submit">Submit</string>
+    <string name="hint_for_edit_text">Enter the work to do</string>
+</resources>
